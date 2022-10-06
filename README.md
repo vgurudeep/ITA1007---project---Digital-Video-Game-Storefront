@@ -1,2 +1,2 @@
 # ITA1007---project---Digital-Video-Game-Storefront
-repo to submit my web development course porject code.
+repo to submit my web development course project code.
